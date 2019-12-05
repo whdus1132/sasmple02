@@ -38,5 +38,6 @@ $(document).ready(function(){
 
 </script>
 <div id="chart"></div>
+<h1>Hello World</h1>
 </body>
 </html>
